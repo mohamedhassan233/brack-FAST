@@ -1,6 +1,4 @@
 
-
-
 import keyboard
 
 keyboard.add_abbreviation('"', '«»')
@@ -30,12 +28,4 @@ while True :
 
         except :
             break
-
-
-
-
-
-
-
-
 
